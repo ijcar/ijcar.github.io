@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members 
-tagline: (as of September 2016)
+tagline: (as of October 2016)
 group: navigation
 ---
 {% include JB/setup %}
