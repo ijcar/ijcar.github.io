@@ -11,9 +11,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title  : Association for Automated Reasoning
+title  : 
+CADE - Conference on Automated Deduction
 author :
-  name   : Association for Automated Reasoning
+  name   : 
+CADE - Conference on Automated Deduction
   email  : montmirail@cril.fr
   github : Mystelven
 

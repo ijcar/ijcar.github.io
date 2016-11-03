@@ -5,7 +5,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The Association for Automated Reasoning (AAR) is a not-for-profit corporation whose objective is advancing the field of automated reasoning by means that include the dissemination of information to its members and the promotion of the exchange of information. This corporation will have the authority to incorporate other subcorporations. The Association for Automated Reasoning and all subcorporations will be independent of each other except for the respects covered in the included bylaws, and neither the corporation AAR nor its subcorporations will be liable for any acts or omissions of the other. The corporation AAR is subject to the following bylaws, and all other powers and provisions provided by law.
+The 
+CADE - Conference on Automated Deduction (AAR) is a not-for-profit corporation whose objective is advancing the field of automated reasoning by means that include the dissemination of information to its members and the promotion of the exchange of information. This corporation will have the authority to incorporate other subcorporations. The 
+CADE - Conference on Automated Deduction and all subcorporations will be independent of each other except for the respects covered in the included bylaws, and neither the corporation AAR nor its subcorporations will be liable for any acts or omissions of the other. The corporation AAR is subject to the following bylaws, and all other powers and provisions provided by law.
 
 ### Board of Directors
 
