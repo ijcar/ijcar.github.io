@@ -30,6 +30,12 @@
           background-color: transparent
       }
 
+      .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover,
+      .navbar-default .navbar-nav > .active > a:focus {
+        color: #FFFFFF;
+        background-color: #0090ff;
+      }
+
     </style>
 
     <!--[if lt IE 9]>
@@ -59,7 +65,7 @@
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
-            <li><a href="http://www.cadeinc.org/HerbrandAward.html">Herbrand Award</a></li>
+            <li><a href="http://www.floc2018.org/">Next conference</a></li>
           </ul>
         </div>
       </div>
