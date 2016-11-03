@@ -9,6 +9,6 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Interesting links
 
-	- [International Conference on Automated Deduction](https://mystelven.github.io/CADE-website/) (CADE). 
+- [International Conference on Automated Deduction](https://mystelven.github.io/CADE-website/) (CADE). 
 
-	- [Association for Automated Reasoning](https://mystelven.github.io/Association-Automated-Reasoning/) (AAR).
+- [Association for Automated Reasoning](https://mystelven.github.io/Association-Automated-Reasoning/) (AAR).
