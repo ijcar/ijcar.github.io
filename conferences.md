@@ -21,8 +21,8 @@ IJCAR is the premier international joint conference on all aspects of automated 
 ### Previous Conferences
 
  - [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016), Coimbra, Portugal, 27 June - 2 July, 2016. (Springer LNAI ????)
-	- Program Chairs: Nicola Olivetti, Ashish Tiwari (A HREF="Reports/IJCAR-8_ProgramChairs.pdf">Chairs' Report)
-	- Conferences Chair: Pedro Quaresma (A HREF="Reports/IJCAR-8_ConferenceChair.pdf">Chair's Report)
+	- Program Chairs: Nicola Olivetti, Ashish Tiwari 
+	- Conferences Chair: Pedro Quaresma 
 	- Workshop Chair: Reinhard Kahle
 	- Submissions: 65 papers + 14 system descriptions = 79
 	- Accepted: 26 papers + 9 system descriptions = 35

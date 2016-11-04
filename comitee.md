@@ -8,19 +8,36 @@ group: navigation
 
 ### Current Steering Committee
 
-- [Nicola Olivetti](http://www.lsis.org/olivetti/) (IJCAR'16 PC co-chair)
+- [Nicola Olivetti](http://www.lsis.org/olivetti/) 
+	- IJCAR'16 PC co-chair
 
-- [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR'16 PC co-chair)
+- [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) 
+	- IJCAR'16 PC co-chair
 
-- [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html) (SC chair 2015-, FroCoS representative 2015-, SC chair 2011-2013, CADE representative 2011-2013, FroCoS representative 2010-2011, SC chair 2006-2009, CADE representative 2006-2009)
+- [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html) 
+	- SC chair 2015
+	- FroCoS representative 2015- 
+	- SC chair 2011-2013
+	- CADE representative 2011-2013
+	- FroCoS representative 2010-2011
+	- SC chair 2006-2009 
+	- CADE representative 2006-2009
 
-- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/) (CADE representative 2013-, SC chair 2009-2011, CADE representative 2009-2011, Coordinator 2004, FTP representative 2004 & 2001)
+- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/) 
+	- CADE representative 2013-
+	- SC chair 2009-2011
+	- CADE representative 2009-2011 
+	- Coordinator 2004
+	- FTP representative 2004 & 2001
 
-- [Jens Otten](http://www.cs.uni-potsdam.de/~jeotten/) (Tableaux representative 2013-)
+- [Jens Otten](http://www.cs.uni-potsdam.de/~jeotten/) 
+	- Tableaux representative 2013
 
-- [Stefan Hetzl](http://www.logic.at/staff/hetzl/) (IJCAR'14 conference co-chair)
+- [Stefan Hetzl](http://www.logic.at/staff/hetzl/) 
+	- IJCAR'14 conference co-chair
 
-- [Chris Fermüller](http://www.logic.at/staff/chrisf/) (IJCAR'14 conference co-chair)
+- [Chris Fermüller](http://www.logic.at/staff/chrisf/) 
+	- IJCAR'14 conference co-chair
 
 ### Previous Steering Committee Members
 
