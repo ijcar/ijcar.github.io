@@ -3,6 +3,7 @@ layout: page
 title: Contact
 tagline: Information
 group: navigation
+order: 4
 ---
 {% include JB/setup %}
 

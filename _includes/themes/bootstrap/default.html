@@ -62,7 +62,7 @@
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav">
-            {% assign pages_list = site.pages %}
+            {% assign pages_list = site.pages | sort:"order" %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
@@ -76,8 +76,8 @@
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           <span class="pull-right text-muted">
-            developed and maintened by 
-            <a href="http://valentin-montmirail.com" target="_blank">Valentin Montmirail</a>.
+            maintened by 
+            <a href="http://www.cs.miami.edu/home/geoff/">Geoff Sutcliffe</a> and <a href="http://valentin-montmirail.com" target="_blank">Valentin Montmirail</a>.
           </span>
         </p>
       </footer>

@@ -2,6 +2,7 @@
 layout: page
 title: Conferences
 group: navigation
+order: 1
 ---
 {% include JB/setup %}
 

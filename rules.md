@@ -3,6 +3,7 @@ layout: page
 title: Rules
 tagline: governing the IJCAR Steering Committee
 group: navigation
+order: 3
 ---
 {% include JB/setup %}
 

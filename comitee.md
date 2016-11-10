@@ -3,6 +3,7 @@ layout: page
 title : Steering Committee
 header : Steering Committee
 group: navigation
+order: 2
 ---
 {% include JB/setup %}
 
