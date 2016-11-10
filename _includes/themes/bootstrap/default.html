@@ -36,6 +36,22 @@
         background-color: #0090ff;
       }
 
+      .navbar-nav>li>a {
+
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+      }
+
+      .navbar>.container .navbar-brand {
+
+        margin-left: 0px;
+      }
+
+      .navbar-collapse {
+
+        padding-left: 0px;
+      }
+
     </style>
 
     <!--[if lt IE 9]>
@@ -50,6 +66,7 @@
   <body>
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
+        <a href="{{ HOME_PATH }}"><img id="logo" style="float:left; margin-right:10px;" src="./Logo.gif" height=75 width=75 /> </a>
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -57,8 +74,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ HOME_PATH }}"><img src="./Logo.gif" height=25 width=25 /> {{ site.title }}</a>
-        </div>
+          <a class="navbar-brand" href="{{ HOME_PATH }}">
+            {{ site.title }}
+          </a>
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav">
@@ -66,6 +84,8 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+        </div>
+
         </div>
       </div>
     </nav>
@@ -77,7 +97,7 @@
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           <span class="pull-right text-muted">
             maintened by 
-            <a href="http://www.cs.miami.edu/home/geoff/">Geoff Sutcliffe</a> and <a href="http://valentin-montmirail.com" target="_blank">Valentin Montmirail</a>.
+            <a href="http://valentin-montmirail.com" target="_blank">Valentin Montmirail</a> and <a href="http://www.cs.miami.edu/home/geoff/">Geoff Sutcliffe</a>.
           </span>
         </p>
       </footer>

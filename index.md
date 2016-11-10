@@ -5,12 +5,16 @@ tagline:
 ---
 {% include JB/setup %}
 
+IJCAR is the premier international joint conference on all aspects of automated reasoning, including foundations, implementations, and applications, comprising several leading conferences and workshops.
+
+-----
+
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
 	<a href="http://www.floc2018.org/">Oxford, 6<sup>th</sup> - 19<sup>th</sup> July 2018 - The 2018 Federated Logic Conference</a>
 </div>
 
-IJCAR is the premier international joint conference on all aspects of automated reasoning, including foundations, implementations, and applications, comprising several leading conferences and workshops.
+-----
 
 ### Interesting links
 
