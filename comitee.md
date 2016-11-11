@@ -9,6 +9,10 @@ order: 2
 
 ### Current Steering Committee
 
+- [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
+	- CADE representative 2016- 
+	- IJCAR'14 PC co-chair
+
 - [Nicola Olivetti](http://www.lsis.org/olivetti/) 
 	- IJCAR'16 PC co-chair
 
@@ -24,13 +28,6 @@ order: 2
 	- SC chair 2006-2009 
 	- CADE representative 2006-2009
 
-- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/) 
-	- CADE representative 2013-
-	- SC chair 2009-2011
-	- CADE representative 2009-2011 
-	- Coordinator 2004
-	- FTP representative 2004 & 2001
-
 - [Jens Otten](http://www.cs.uni-potsdam.de/~jeotten/) 
 	- Tableaux representative 2013
 
@@ -42,6 +39,7 @@ order: 2
 
 ### Previous Steering Committee Members
 
+- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/)  (CADE representative 2013-, SC chair 2009-2011, CADE representative 2009-2011, Coordinator 2004, FTP representative 2004 & 2001)
 - [Deepak Kapur](http://www.cs.unm.edu/~kapur/) (SC chair 2014-2015, IJCAR'14 PC co-chair)
 - [Stéphane Demri](http://www.lsv.ens-cachan.fr/~demri/) (IJCAR'14 PC co-chair)
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (IJCAR'14 PC co-chair)
