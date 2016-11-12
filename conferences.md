@@ -100,18 +100,30 @@ IJCAR is the premier international joint conference on all aspects of automated 
  - CADE: See the [CADE Inc web pages](https://mystelven.github.io/CADE-website/)
 
  - TABLEAUX:
-	- 2013: Stéphane Demri (joint with FroCoS), Sara Negri, Tobias Nipkow (and Andrei Popescu)
-	- 2011: Maria Paola Bonacina (joint with FTP), Ulrich Furbach, Felix Klaedtke (joint with FTP), Kazushige Terui
-	- 2009: Patrick Blackburn, Peter Jeavons, Pierre Wolper
-	- 2007: Piero Bonatti, John-Jules Meyer, Cesare Tinelli
-	- 2006 -> IJCAR
-	- 2005: Ian Horrocks, Diego Calvanese, Hans Jürgen Ohlbach, Erik Rosenthal
-	- 2003: Vito Michele Abrusci, Thierry Coquand, Claude Kirchner, Douglas J. Howe
-	- 2002: Matthias Baaz, Dale Miller and Elaine Pimentel
-	- 2001 -> IJCAR
-	- 2000: Franz Baader, Melvin Fitting, Alasdair Urquhart
-	- 1999: Randy Bryant, David S. Warren
-	- 1998: G. de Bruijn, Alan Bundy, Edmund Clarke
+   - 2016 -> IJCAR
+   - 2015: Christoph Benzmüller, Roy Dyckhoff, Oliver Ray
+   - 2014 -> IJCAR
+   - 2013: Stéphane Demri (joint with FroCoS), Sara Negri, Tobias Nipkow (and Andrei Popescu)
+   - 2012 -> IJCAR
+   - 2011: Maria Paola Bonacina (joint with FTP), Ulrich Furbach, Felix Klaedtke (joint with FTP), Kazushige Terui
+   - 2010 -> IJCAR
+   - 2009: Patrick Blackburn, Peter Jeavons, Pierre Wolper
+   - 2008 -> IJCAR
+   - 2007: Piero Bonatti, John-Jules Meyer, Cesare Tinelli
+   - 2006 -> IJCAR
+   - 2005: Ian Horrocks, Diego Calvanese, Hans Jürgen Ohlbach, Erik Rosenthal
+   - 2003: Vito Michele Abrusci, Thierry Coquand, Claude Kirchner, Douglas J. Howe
+   - 2002: Matthias Baaz, Dale Miller
+   - 2001 -> IJCAR
+   - 2000: Franz Baader, Melvin Fitting, Alasdair Urquhart
+   - 1999: Randy Bryant, David S. Warren
+   - 1998: G. de Bruijn, Alan Bundy, Edmund Clarke 
+   - 1997: Ryuzo Hasegawa, Grigori Mints
+   - 1996: Peter Andrews, Dov Gabbay
+   - 1995: Wolfgang Bibel, Ricardo Caferra, Erik Rosenthal (banquet speech)
+   - 1994: Jaakko Hintikka, Robert Kowalski
+   - 1993: Melvin Fitting, Mark Stickel
+   - 1992: Donald W. Loveland
 
  - FTP:
 	- 2011: Maria Paola Bonacina (joint with TABLEAUX), Felix Klaedtke (joint with TABLEAUX)
