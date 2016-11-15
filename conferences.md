@@ -97,7 +97,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Invited Speakers by Other IJCAR Constituents
 
- - CADE: See the [CADE Inc web pages](https://mystelven.github.io/CADE-website/)
+ - CADE: See the [CADE Inc web pages](http://cadeinc.org/)
 
  - TABLEAUX:
    - 2016 -> IJCAR
