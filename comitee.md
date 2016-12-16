@@ -9,6 +9,12 @@ order: 2
 
 ### Current Steering Committee
 
+- [Pedro Quaresma](https://www.mat.uc.pt/~pedro/)
+	- IJCAR'18 conference chair
+
+- [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
+	- IJCAR'18 conference chair
+
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
 	- CADE representative 2016- 
 	- IJCAR'14 PC co-chair
@@ -31,14 +37,11 @@ order: 2
 - [Jens Otten](http://www.cs.uni-potsdam.de/~jeotten/) 
 	- Tableaux representative 2013
 
-- [Stefan Hetzl](http://www.logic.at/staff/hetzl/) 
-	- IJCAR'14 conference co-chair
-
-- [Chris Fermüller](http://www.logic.at/staff/chrisf/) 
-	- IJCAR'14 conference co-chair
 
 ### Previous Steering Committee Members
 
+- [Stefan Hetzl](http://www.logic.at/staff/hetzl/) IJCAR'14 conference co-chair
+- [Chris Fermüller](http://www.logic.at/staff/chrisf/) IJCAR'14 conference co-chair
 - [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/)  (CADE representative 2013-, SC chair 2009-2011, CADE representative 2009-2011, Coordinator 2004, FTP representative 2004 & 2001)
 - [Deepak Kapur](http://www.cs.unm.edu/~kapur/) (SC chair 2014-2015, IJCAR'14 PC co-chair)
 - [Stéphane Demri](http://www.lsv.ens-cachan.fr/~demri/) (IJCAR'14 PC co-chair)
