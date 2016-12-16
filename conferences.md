@@ -12,7 +12,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
  - IJCAR 2018, Oxford, United Kingdom, 2018 (within [FLoC 2018](http://www.floc2018.org/)) (Springer LNAI ????)
 	- Program Chairs:
-	- Conferences Chair: Ian Horrocks
+	- Conference Chair: Ian Horrocks
 	- Local Arrangements Chairs: Daniel Kroening, Marta Kwiatkowska
 	- Submissions: ?? papers + ?? system descriptions = ??
 	- Accepted: ?? papers + ?? system descriptions = ??
@@ -23,7 +23,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
  - [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016), Coimbra, Portugal, 27 June - 2 July, 2016. (Springer LNAI 9706)
 	- Program Chairs: Nicola Olivetti, Ashish Tiwari ([Chairs' Report](Reports/IJCAR-8_ProgramChairs.pdf))
-	- Conferences Chair: Pedro Quaresma ([Chairs' Report](Reports/IJCAR-8_ConferenceChair.pdf))
+	- Conference Chair: Pedro Quaresma ([Chairs' Report](Reports/IJCAR-8_ConferenceChair.pdf))
 	- Workshop Chair: Reinhard Kahle
 	- Submissions: 65 papers + 14 system descriptions = 79
 	- Accepted: 26 papers + 9 system descriptions = 35
@@ -32,7 +32,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
  - [IJCAR 2014](http://cs.nyu.edu/ijcar2014/), Vienna, Austria, 2014 (within [Vienna Summer of Logic](http://vsl2014.at/)) (Springer LNAI 8562)
 	- Program Chairs: Stéphane Demri, Deepak Kapur, Christoph Weidenbach ([Chairs' Report](Reports/IJCAR-7_ProgramChairs.pdf))
-	- Conferences Chairs: Christian Fermüller, Stefan Hetzl
+	- Conference Chairs: Christian Fermüller, Stefan Hetzl
 	- Conference or Local Arrangements Chairs: Giselle Reis + VSL'14 organizing committee
 	- Submissions: 63 papers + 20 system descriptions = 83
 	- Accepted: 26 papers + 11 system descriptions = 37
