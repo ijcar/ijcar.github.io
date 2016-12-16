@@ -9,11 +9,11 @@ order: 2
 
 ### Current Steering Committee
 
-- [Pedro Quaresma](https://www.mat.uc.pt/~pedro/)
-	- IJCAR'18 conference chair
-
 - [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
 	- IJCAR'18 conference chair
+
+- [Pedro Quaresma](https://www.mat.uc.pt/~pedro/)
+	- IJCAR'16 conference chair
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
 	- CADE representative 2016- 

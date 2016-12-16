@@ -12,7 +12,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
  - IJCAR 2018, Oxford, United Kingdom, 2018 (within [FLoC 2018](http://www.floc2018.org/)) (Springer LNAI ????)
 	- Program Chairs:
-	- Conferences Chairs: Ian Horrocks
+	- Conferences Chair: Ian Horrocks
 	- Local Arrangements Chairs: Daniel Kroening, Marta Kwiatkowska
 	- Submissions: ?? papers + ?? system descriptions = ??
 	- Accepted: ?? papers + ?? system descriptions = ??
