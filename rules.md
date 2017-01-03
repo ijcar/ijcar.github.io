@@ -7,7 +7,16 @@ order: 3
 ---
 {% include JB/setup %}
 
-The IJCAR steering committee is responsible for coordinating the organization of the International Joint Conference of Automated Reasoning. IJCAR consists of several constituent meetings, which have agreed to replace their meeting by IJCAR in those years where IJCAR takes place. In 2007, when these rules were created, the constituent meetings are CADE, FroCoS, FTP and TABLEAUX, but IJCAR is in principle open to additional meetings in the area of Automated Reasoning (a list of the constituent meetings of past and future IJCARs can be found at the end of these rules). IJCAR will usually take place every two years, and will usually be part of FLoC whenever a FLoC takes place.
+The IJCAR steering committee is responsible for coordinating the organization 
+of the International Joint Conference of Automated Reasoning. IJCAR consists 
+of several constituent meetings, which have agreed to replace their meeting 
+by IJCAR in those years where IJCAR takes place. 
+In 2007, when these rules were created, the constituent meetings are CADE, 
+FroCoS, FTP and TABLEAUX, but IJCAR is in principle open to additional 
+meetings in the area of Automated Reasoning (a list of the constituent 
+meetings of past and future IJCARs can be found at the end of these rules). 
+IJCAR usually takes place every two years, and is usually part of FLoC 
+whenever a FLoC takes place.
 
 In the following rules,
 
@@ -17,14 +26,24 @@ In the following rules,
 
 #### 1. Composition of the steering committee:
 
-The IJCAR steering committee includes
+The IJCAR steering committee (SC) includes
 
-the previous IJCAR conference chair, the current IJCAR conference chair, and any future IJCAR conference chairs if such chairs have already been selected
-the current IJCAR PC co-chairs
-one representative determined by each constituent meeting
-The previous conference chair steps down at the conclusion of the IJCAR that succeeded the meeting she/he was chair of. The PC co-chairs step down at the conclusion of the meeting they co-chaired or once the next PC co-chairs have been selected, whichever takes place later. The next PC co-chairs are then included in the SC.
+the previous IJCAR conference chair, 
+the current IJCAR conference chair, 
+any future IJCAR conference chairs if such chairs have already been selected,
+the current IJCAR PC co-chairs,
+one representative determined by each constituent meeting.
+The previous conference chair steps down at the conclusion of the IJCAR that 
+succeeded the meeting of which she/he was chair. 
+The PC co-chairs step down at the conclusion of the meeting they co-chaired, 
+or once the next PC co-chairs have been selected, whichever takes place later. 
+The next PC co-chairs are then included in the SC.
 
-The term limit for the representatives of the constituent meetings is determined individually by these meetings, and this limit should not exceed 6 years. If a constituent meeting dissolves, its representative stays on the IJCAR SC until the end of her/his term.
+The term limit for the representatives of the constituent meetings is 
+determined individually by these meetings, and this limit should not exceed 
+6 years. 
+If a constituent meeting dissolves, its representative stays on the IJCAR 
+SC until the end of her/his term.
 
 The steering committee may also decide to include representatives of other meetings in the area of Automated Reasoning if these meetings are seen as potential future constituent meetings. The inclusion of these representatives is discussed by the SC after each IJCAR conference. There should also be a term limit for these additional members (of no more than 6 years, fixed by the IJCAR SC) and the overall size of the IJCAR SC should stay reasonable due to these additions.
 
