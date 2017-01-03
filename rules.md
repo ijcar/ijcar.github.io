@@ -28,11 +28,12 @@ In the following rules,
 
 The IJCAR steering committee (SC) includes
 
-the previous IJCAR conference chair, 
-the current IJCAR conference chair, 
-any future IJCAR conference chairs if such chairs have already been selected,
-the current IJCAR PC co-chairs,
-one representative determined by each constituent meeting.
+- the previous IJCAR conference chair
+- the current IJCAR conference chair
+- any future IJCAR conference chairs if such chairs have already been selected
+- the current IJCAR PC co-chairs
+- one representative determined by each constituent meeting
+
 The previous conference chair steps down at the conclusion of the IJCAR that 
 succeeded the meeting of which she/he was chair. 
 The PC co-chairs step down at the conclusion of the meeting they co-chaired, 

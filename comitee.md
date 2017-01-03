@@ -10,7 +10,7 @@ order: 2
 ### Current Steering Committee
 
 - [Didier Galmiche](https://members.loria.fr/DGalmiche/files/)
-    - ROLE
+    - IJCAR'18 PC co-chair
 
 - [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
 	- IJCAR'18 conference chair
