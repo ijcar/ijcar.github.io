@@ -9,6 +9,9 @@ order: 2
 
 ### Current Steering Committee
 
+- [Didier Galmiche](https://members.loria.fr/DGalmiche/files/)
+    - ROLE
+
 - [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
 	- IJCAR'18 conference chair
 
@@ -18,12 +21,6 @@ order: 2
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
 	- CADE representative 2016- 
 	- IJCAR'14 PC co-chair
-
-- [Nicola Olivetti](http://www.lsis.org/olivetti/) 
-	- IJCAR'16 PC co-chair
-
-- [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) 
-	- IJCAR'16 PC co-chair
 
 - [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html) 
 	- SC chair 2015
@@ -40,6 +37,8 @@ order: 2
 
 ### Previous Steering Committee Members
 
+- [Nicola Olivetti](http://www.lsis.org/olivetti/) IJCAR'16 PC co-chair
+- [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) IJCAR'16 PC co-chair
 - [Stefan Hetzl](http://www.logic.at/staff/hetzl/) IJCAR'14 conference co-chair
 - [Chris Fermüller](http://www.logic.at/staff/chrisf/) IJCAR'14 conference co-chair
 - [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/)  (CADE representative 2013-, SC chair 2009-2011, CADE representative 2009-2011, Coordinator 2004, FTP representative 2004 & 2001)
