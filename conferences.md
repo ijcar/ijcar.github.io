@@ -10,7 +10,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Future Conferences
 
- - [IJCAR 2018](http://ijcar2018.org/), within [the 2018 Federated Logic Conference](http://www.floc2018.org/) (Springer LNAI ????)
+ - [IJCAR 2018](http://ijcar2018.org/), Oxford, United Kingdom, 14-19 July 2018 (within [the 2018 Federated Logic Conference](http://www.floc2018.org/)) (Springer LNAI ????)
 	- Program Chairs: Didier Galmiche, Stephan Schulz, Roberto Sebastiani
 	- Conference Chair: Ian Horrocks
 	- Local Arrangements Chairs: Daniel Kroening, Marta Kwiatkowska
@@ -21,7 +21,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Previous Conferences
 
- - [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016), Coimbra, Portugal, 27 June - 2 July, 2016. (Springer LNAI 9706)
+ - [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016), Coimbra, Portugal, 27 June - 2 July, 2016 (Springer LNAI 9706)
 	- Program Chairs: Nicola Olivetti, Ashish Tiwari ([Chairs' Report](Reports/IJCAR-8_ProgramChairs.pdf))
 	- Conference Chair: Pedro Quaresma ([Chairs' Report](Reports/IJCAR-8_ConferenceChair.pdf))
 	- Workshop Chair: Reinhard Kahle
