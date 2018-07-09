@@ -9,6 +9,9 @@ order: 2
 
 ### Current Steering Committee
 
+- [Kaustuv Chaudhuri](http://kaustuv.chaudhuri.info/)
+	- IJCAR'20 conference chair
+
 - [Didier Galmiche](https://members.loria.fr/DGalmiche/files/)
     - IJCAR'18 PC co-chair
 
