@@ -11,7 +11,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-	<a href="http://ijcar2018.org/" target="_top">IJCAR 2018</a>, within <a HREF="http://www.floc2018.org/" target="_top">the 2018 Federated Logic Conference</a>
+	TBA
 </div>
 
 -----
