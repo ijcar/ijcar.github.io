@@ -10,8 +10,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 -----
 
 <div class="alert alert-info" role="alert">
-	<strong>Next Conference</strong>: 
-	[IJCAR 2020](http://ijcar2020.org/)
+	<strong>Next Conference</strong>: [IJCAR 2020](http://ijcar2020.org/)
 </div>
 
 -----
