@@ -10,6 +10,15 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Future Conferences
 
+ - [IJCAR 2020](http://ijcar2020.org/), Paris, France, 29th June - 2nd July 2020 (Springer LNAI ????)
+	- Program Chairs: Viorica Sofronie-Stokkermans, Nicolas Peltier
+	- Conference Chair: Kaustuv Chaudhuri
+	- Local Arrangements Chairs: 
+	- Submissions: ?? papers + ?? system descriptions = ???
+	- Accepted: ?? papers + ?? system descriptions = ??
+	- Registrations: ?? regular + ?? student = ???
+	- Invited speakers: 
+
 ### Previous Conferences
 
  - [IJCAR 2018](http://ijcar2018.org/), Oxford, United Kingdom, 14-19 July 2018 (within [the 2018 Federated Logic Conference](http://www.floc2018.org/)) (Springer LNAI 10900)
