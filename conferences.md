@@ -27,7 +27,8 @@ IJCAR is the premier international joint conference on all aspects of automated 
 	- Local Arrangements Chairs: Daniel Kroening, Marta Kwiatkowska
 	- Submissions: 92 papers + 16 system descriptions = 108
 	- Accepted: 38 papers + 8 system descriptions = 46
-	- Registrations: 95 regular + 56 student = 151
+    - 11 workshops + 2 competitions
+	- Registrations: 95 regular + 56 student + 229 workshop only = 380
 	- Invited speakers: Erika &Aacute;brah&aacute;m, Martin Giese
 
  - [IJCAR 2016](http://www.uc.pt/en/congressos/ijcar2016), Coimbra, Portugal, 27 June - 2 July, 2016 (Springer LNAI 9706)
@@ -36,7 +37,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 	- Workshop Chair: Reinhard Kahle
 	- Submissions: 65 papers + 14 system descriptions = 79
 	- Accepted: 26 papers + 9 system descriptions = 35
-	- Registrations: 110 regular + 36 student = 146
+	- Registrations: 110 regular + 36 student = 146 (inlcudes 16 workshop only)
 	- Invited speakers: Arnon Avron, Gilles Barthe, Sumit Gulwani, André Platzer
 
  - [IJCAR 2014](http://cs.nyu.edu/ijcar2014/), Vienna, Austria, 2014 (within [Vienna Summer of Logic](http://vsl2014.at/)) (Springer LNAI 8562)
@@ -46,7 +47,6 @@ IJCAR is the premier international joint conference on all aspects of automated 
 	- Submissions: 63 papers + 20 system descriptions = 83
 	- Accepted: 26 papers + 11 system descriptions = 37
 	- Registrations: 91 regular + 32 student = 123
-	- Many student volunteers not spcifically assigned to IJCAR.
 	- Invited speakers: Ken McMillan, Rajeev Goré
 
  - [IJCAR 2012](http://ijcar.cs.manchester.ac.uk/), Manchester, United Kingdom, 25-29 June 2012 (Springer LNCS 7364)
@@ -54,54 +54,53 @@ IJCAR is the premier international joint conference on all aspects of automated 
 	- Conference or Local Arrangements Chairs: Konstantin Korovin, Andrei Voronkov
 	- Submissions: 103 papers + 12 system descriptions = 115
 	- Accepted: 32 papers + 10 system descriptions = 42
-	- Registrations: 148 regular + 73 student = 221
-	- 140 conference (86 full registrations) + 81 workshop only = 221
+	- Registrations: 86 regular + 56 student + 81 workshop only = 221
 	- Invited speakers: Yuri Matiyasevich, Robert Nieuwenhuis, Nicole Schweikardt, Nikolaj Bjorner.
 	- Guest lecturers: Peter Andrews, Martin Davis, John Alan Robinson.
 
  - IJCAR 2010, Edinburgh, United Kingdom, 16-19 July 2010 (within FLoC 2010) (Springer LNCS 6173)
 	- Program Chairs: Jürgen Giesl, Reiner Hähnle
 	- Conference or Local Arrangements Chairs: Alan Bundy (in the context of the FLoC organization)
-	- Participants: 95 full + 53 student = 147 conference
-	- 13 workshops, 311 participants
 	- Submissions: 63 papers + 26 system descriptions = 89
 	- Accepted: 28 papers + 12 system descriptions = 40
+    - 13 workshops
+	- Registrations: 95 full + 53 student + 311 workshop only = 458
 	- Invited speakers: David Basin (FLoC), Johan van Benthem, Deepak Kapur (FLoC), Leonardo de Moura.
 
  - [IJCAR 2008](http://www.cs.miami.edu/home/geoff/Conferences/IJCAR//2008), Sydney, Australia, August 10-15, 2008 (Springer LNAI 5195)
 	- Program Chairs: Alessandro Armando, Peter Baumgartner and Gilles Dowek
 	- Conference or Local Arrangements Chairs: Peter Baumgartner
-	- Participants: 105 (plus 11 workshop/tutorial registrations only)
 	- Submissions: 81 papers + 17 system descriptions = 98
 	- Accepted: 26 papers + 13 system descriptions = 39
 	- 4 Workshops, 4 Tutorials
+	- Registrations: 105 conference + 11 workshop only = 116
 	- Invited speakers: Hubert Comon-Lundh, Nachum Dershowitz, Aarti Gupta, Carsten Lutz.
 
  - IJCAR-2006, Seattle, USA, August 16-20, 2006 (Springer LNCS 4130)
 	- Program Chairs: Ulrich Furbach and Natarajan Shankar
 	- Conference or Local Arrangements Chairs: John Harrison
-	- Participants: 164
 	- Submissions: 133 papers + 18 system descriptions = 151
 	- Accepted: 41 papers + 8 system descriptions = 49
 	- 12 workshops and tutorials
+	- Registrations: 164
 	- Invited speakers: Bruno Buchberger, Adnan Darwich, Dale Miller, David Dill (CAV/IJCAR/ICLP).
 
  - IJCAR-2004, Cork, Ireland, July 4-8, 2004 (Springer LNAI 3097)
 	- Program Chairs: David Basin and Michael Rusinowitch
 	- Conference or Local Arrangements Chairs: Toby Walsh and Barry O'Sullivan
-	- Participants: 240 (172 IJCAR + rest satellite events)
 	- Submissions: 74 papers + 12 system descriptions = 86
 	- Accepted: 26 papers + 6 system descriptions = 32
 	- 9 workshops, 5 tutorials
+	- Registrations: 172 conference + 68 workshop only = 240
 	- Invited speakers: Georg Gottlob, Jose Meseguer, Wolfgang Weispfenning.
 
  - IJCAR-2001, Siena, Italy, June 18-23, 2001 (Springer LNAI 2083)
 	- Program Chairs: Rajeev Gore, Alexander Leitsch and Tobias Nipkow
 	- Conference or Local Arrangements Chairs: Fabio Massacci
-	- Participants: 250 (160 IJCAR + rest satellite events)
 	- Submissions: 88 papers + 24 system descriptions = 112
 	- Accepted: 37 papers + 19 system descriptions = 56
 	- 10 workshops, 4 tutorials
+	- Registrations: 160 conference + 90 workshop only = 250
 	- Invited speakers: Neil Jones, Larry Paulson, Helmut Schwichtenberg, Andrei Voronkov, Doron Zeilberger.
 
 ### Invited Speakers by Other IJCAR Constituents
