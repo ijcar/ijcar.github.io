@@ -9,6 +9,12 @@ order: 2
 
 ### Current Steering Committee
 
+- [Viorica Sofronie-Stokkerman](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ics/RGVSS/team/viorica-sofronie-stokkermans)
+    - IJCAR'20 PC co-chair
+
+- [Lawrence Paulson](https://www.cl.cam.ac.uk/~lp15/)
+    - ITP representative 2018-
+
 - [Kaustuv Chaudhuri](http://kaustuv.chaudhuri.info/)
 	- IJCAR'20 conference chair
 
