@@ -92,3 +92,5 @@ Surplus funds earmarked for IJCAR are also earmarked for the constituent meeting
 - IJCAR 2012: CADE, FroCoS, FTP, TABLEAUX
 - IJCAR 2014: CADE, FroCoS, TABLEAUX (within FLoC)
 - IJCAR 2016: CADE, FroCoS, TABLEAUX
+- IJCAR 2018: CADE, FroCoS, TABLEAUX
+- IJCAR 2020: CADE, FroCoS, ITP, TABLEAUX

@@ -9,6 +9,9 @@ order: 2
 
 ### Current Steering Committee
 
+- [Arnon Avron](https://www.cs.tau.ac.il/~aa/)
+	- IJCAR'22 conference chair
+
 - [Viorica Sofronie-Stokkerman](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ics/RGVSS/team/viorica-sofronie-stokkermans)
     - IJCAR'20 PC co-chair
 
@@ -23,9 +26,6 @@ order: 2
 
 - [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
 	- IJCAR'18 conference chair
-
-- [Pedro Quaresma](https://www.mat.uc.pt/~pedro/)
-	- IJCAR'16 conference chair
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
 	- CADE representative 2016- 
@@ -46,6 +46,7 @@ order: 2
 
 ### Previous Steering Committee Members
 
+- [Pedro Quaresma](https://www.mat.uc.pt/~pedro/) IJCAR'16 conference chair
 - [Nicola Olivetti](http://www.lsis.org/olivetti/) IJCAR'16 PC co-chair
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) IJCAR'16 PC co-chair
 - [Stefan Hetzl](http://www.logic.at/staff/hetzl/) IJCAR'14 conference co-chair
