@@ -10,16 +10,28 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Future Conferences
 
- - [IJCAR 2020](https://ijcar2020.org/), Paris, France, 29th June - 2nd July 2020 (Springer LNAI ????)
+ - [IJCAR 2022](https://ijcar.org/), Haifa, Israel, August 2022 (within FLoC 2022) (Springer LNAI ???)
 	- Program Chairs: Viorica Sofronie-Stokkermans, Nicolas Peltier
-	- Conference Chair: Kaustuv Chaudhuri
-	- Local Arrangements Chairs: Giulio Manzonetto
-	- Submissions: ?? papers + ?? system descriptions = ???
-	- Accepted: ?? papers + ?? system descriptions = ??
-	- Registrations: ?? regular + ?? student = ???
+	- Conference Chair: Arnon Avron
+	- Submissions: ??? papers + ??? system descriptions + ??? short papers = ???
+	- Accepted: ??? papers + ??? system descriptions + ??? short papers = ???
+    - ?? workshops + ??? competitions
+	- Registrations: ??? regular + ?? student = ???
 	- Invited speakers: 
 
 ### Previous Conferences
+
+ - [IJCAR 2020](https://ijcar2020.org/), Paris, France, 29th June - 2nd July 2020 (Springer LNAI 12166 and 12167)
+	- Program Chairs: Viorica Sofronie-Stokkermans, Nicolas Peltier ([Chairs' Report](Reports/IJCAR-10_ProgramChairs.pdf))
+	- Conference Chair: Kaustuv Chaudhuri ([Chairs' Report](Reports/IJCAR-10_ConferenceChairs.pdf))
+	- Local Arrangements Chairs: Stefano Guerrini, Giulio Manzonetto
+	- Submissions: 150 papers + 21 system descriptions + 25 short papers = 196
+	- Accepted: 62 papers + 11 system descriptions + 6 short papers = 79
+    - ?? workshops + 2 competitions
+	- Registrations: 858 regular + ?? student = ???
+	- Invited speakers: John Harrison (joint with FSCD),
+      Rens&eacute; Thiemann (joint with FSCD), Clark Barrett, Elaine Pimentel,
+      Rizica Piskac
 
  - [IJCAR 2018](http://ijcar2018.org/), Oxford, United Kingdom, 14-19 July 2018 (within [the 2018 Federated Logic Conference](http://www.floc2018.org/)) (Springer LNAI 10900)
 	- Program Chairs: Didier Galmiche, Stephan Schulz, Roberto Sebastiani ([Chairs' Report](Reports/IJCAR-9_ProgramChairs.pdf))
