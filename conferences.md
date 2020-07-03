@@ -21,14 +21,14 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Previous Conferences
 
- - [IJCAR 2020](https://ijcar2020.org/), Paris, France, 29th June - 2nd July 2020 (Springer LNAI 12166 and 12167)
+ - [IJCAR 2020](https://ijcar2020.org/), Online, Earth (was to be Paris, France), 1st June - 4th July 2020 (Springer LNAI 12166 and 12167)
 	- Program Chairs: Viorica Sofronie-Stokkermans, Nicolas Peltier ([Chairs' Report](Reports/IJCAR-10_ProgramChairs.pdf))
 	- Conference Chair: Kaustuv Chaudhuri ([Chair's Report](Reports/IJCAR-10_ConferenceChair.pdf))
 	- Local Arrangements Chairs: Stefano Guerrini, Giulio Manzonetto
 	- Submissions: 150 papers + 21 system descriptions + 25 short papers = 196
 	- Accepted: 62 papers + 11 system descriptions + 6 short papers = 79
     - ?? workshops + 2 competitions
-	- Registrations: 858 regular + ?? student = ???
+	- Registrations: 858 regular + 0 student (all regular) = 858
 	- Invited speakers: John Harrison (joint with FSCD),
       Rens&eacute; Thiemann (joint with FSCD), Clark Barrett, Elaine Pimentel,
       Rizica Piskac
