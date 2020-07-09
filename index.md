@@ -11,8 +11,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-    <A HREF="https://ijcar2020.org">IJCAR 2020</A>
-    (News: ITP has joined IJCAR 2020)
+    <A HREF="">IJCAR 2022</A>
 </div>
 
 -----

@@ -21,12 +21,6 @@ order: 2
 - [Kaustuv Chaudhuri](http://kaustuv.chaudhuri.info/)
 	- IJCAR'20 conference chair
 
-- [Didier Galmiche](https://members.loria.fr/DGalmiche/files/)
-    - IJCAR'18 PC co-chair
-
-- [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/)
-	- IJCAR'18 conference chair
-
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) 
 	- CADE representative 2016- 
 	- IJCAR'14 PC co-chair
@@ -46,6 +40,8 @@ order: 2
 
 ### Previous Steering Committee Members
 
+- [Didier Galmiche](https://members.loria.fr/DGalmiche/files/) IJCAR'18 PC co-chair
+- [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/) IJCAR'18 conference chair
 - [Pedro Quaresma](https://www.mat.uc.pt/~pedro/) IJCAR'16 conference chair
 - [Nicola Olivetti](http://www.lsis.org/olivetti/) IJCAR'16 PC co-chair
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) IJCAR'16 PC co-chair
