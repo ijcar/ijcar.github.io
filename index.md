@@ -11,7 +11,11 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-    <A HREF="">IJCAR 2022</A>
+    <A HREF="">IJCAR 2022</A>. The PC chairs are 
+    <A HREF="https://research.vu.nl/en/persons/jasmin-christian-blanchette">
+    Jasmin Blanchette</A>,
+    <A HREF="https://forsyte.at/people/kovacs/">Laura Kovacs</A>,
+    <A HREF="http://users.cecs.anu.edu.au/~dpattinson/">Dirk Pattinson</A>.
 </div>
 
 -----

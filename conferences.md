@@ -11,7 +11,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 ### Future Conferences
 
  - [IJCAR 2022](https://ijcar.org/), Haifa, Israel, August 2022 (within [FLoC 2022](https://floc2022.org)) (Springer LNAI ???)
-	- Program Chairs: 
+	- Program Chairs: Jasmin Blanchette, Laura Kovacs, Dirk Pattinson
 	- Conference Chair: Arnon Avron
 	- Submissions: ??? papers + ??? system descriptions + ??? short papers = ???
 	- Accepted: ??? papers + ??? system descriptions + ??? short papers = ???
@@ -30,7 +30,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
     - 12 workshops + 2 competitions
 	- Registrations: 858 regular + 0 student (all regular) = 858
 	- Invited speakers: John Harrison (joint with FSCD),
-      Rens&eacute; Thiemann (joint with FSCD), Clark Barrett, Elaine Pimentel,
+      Ren&eacute; Thiemann (joint with FSCD), Clark Barrett, Elaine Pimentel,
       Rizica Piskac
 
  - [IJCAR 2018](http://ijcar2018.org/), Oxford, United Kingdom, 14-19 July 2018 (within [the 2018 Federated Logic Conference](http://www.floc2018.org/)) (Springer LNAI 10900)

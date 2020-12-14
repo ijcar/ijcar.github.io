@@ -9,11 +9,11 @@ order: 2
 
 ### Current Steering Committee
 
+- [Dirk Pattinson](http://users.cecs.anu.edu.au/~dpattinson/)
+	- IJCAR'22 program co-chair
+
 - [Arnon Avron](https://www.cs.tau.ac.il/~aa/)
 	- IJCAR'22 conference chair
-
-- [Viorica Sofronie-Stokkerman](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ics/RGVSS/team/viorica-sofronie-stokkermans)
-    - IJCAR'20 PC co-chair
 
 - [Lawrence Paulson](https://www.cl.cam.ac.uk/~lp15/)
     - ITP representative 2018-
@@ -26,7 +26,7 @@ order: 2
 	- IJCAR'14 PC co-chair
 
 - [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html) 
-	- SC chair 2015
+	- SC chair 2015-
 	- FroCoS representative 2015- 
 	- SC chair 2011-2013
 	- CADE representative 2011-2013
@@ -40,6 +40,7 @@ order: 2
 
 ### Previous Steering Committee Members
 
+- [Viorica Sofronie-Stokkerman](https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ics/RGVSS/team/viorica-sofronie-stokkermans) IJCAR'20 PC co-chair
 - [Didier Galmiche](https://members.loria.fr/DGalmiche/files/) IJCAR'18 PC co-chair
 - [Ian Horrocks](http://www.cs.ox.ac.uk/ian.horrocks/) IJCAR'18 conference chair
 - [Pedro Quaresma](https://www.mat.uc.pt/~pedro/) IJCAR'16 conference chair
