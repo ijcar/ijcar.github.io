@@ -35,7 +35,7 @@ order: 2
 	- CADE representative 2006-2009
 
 - [Jens Otten](http://www.cs.uni-potsdam.de/~jeotten/) 
-	- Tableaux representative 2013
+	- Tableaux representative 2013-
 
 
 ### Previous Steering Committee Members
