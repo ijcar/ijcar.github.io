@@ -82,7 +82,7 @@ In case of a surplus, CADE Inc. will retain 25% of the surplus. The remaining 75
 
 Surplus funds earmarked for IJCAR are also earmarked for the constituent meetings of the particular IJCAR from which they were generated. Thus, if IJCAR 20XX consists of N meetings and runs a surplus of S, then (.75*S)/N in funds is earmarked for each of those N meetings.
 
-## Constituent meetings of IJCARs
+###### Constituent meetings of IJCARs
 
 - IJCAR 2001: CADE, FTP, TABLEAUX
 - IJCAR 2004: CADE, FroCoS, FTP, TABLEAUX, Calculemus
