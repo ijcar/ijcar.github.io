@@ -10,7 +10,7 @@ IJCAR is the premier international joint conference on all aspects of automated 
 
 ### Future Conferences
 
- - [IJCAR 2022](https://ijcar.org/), Haifa, Israel, August 2022 (within [FLoC 2022](https://floc2022.org)) (Springer LNAI ???)
+ - [IJCAR 2022](https://easychair.org/smart-program/IJCAR2022/), Haifa, Israel, August 2022 (within [FLoC 2022](https://floc2022.org)) (Springer LNAI ???)
 	- Program Chairs: Jasmin Blanchette, Laura Kovacs, Dirk Pattinson
 	- Conference Chair: Arnon Avron
 	- Submissions: ??? papers + ??? system descriptions + ??? short papers = ???
